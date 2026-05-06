@@ -1,0 +1,6 @@
+{
+  "name": "Agile Coach Insight Dashboard",
+  "description": "Analyzes team recordings and notes from Google Drive using Gemini AI to provide actionable coaching insights and trend analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
