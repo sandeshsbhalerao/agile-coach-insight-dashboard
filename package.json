@@ -9,8 +9,9 @@
     "preview": "vite preview",
     "clean": "rm -rf dist",
     "lint": "tsc --noEmit",
+    "postinstall": "npm run build",
     "start": "tsx server.ts"
-  },
+},
   "dependencies": {
     "@google/genai": "^1.29.0",
     "@googleapis/drive": "^20.1.0",
